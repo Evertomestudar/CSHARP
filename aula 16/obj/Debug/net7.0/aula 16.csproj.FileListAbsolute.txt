@@ -1,0 +1,15 @@
+C:\Aprenda a programar\aula 16\bin\Debug\net7.0\aula 16.exe
+C:\Aprenda a programar\aula 16\bin\Debug\net7.0\aula 16.deps.json
+C:\Aprenda a programar\aula 16\bin\Debug\net7.0\aula 16.runtimeconfig.json
+C:\Aprenda a programar\aula 16\bin\Debug\net7.0\aula 16.dll
+C:\Aprenda a programar\aula 16\bin\Debug\net7.0\aula 16.pdb
+C:\Aprenda a programar\aula 16\obj\Debug\net7.0\aula 16.csproj.AssemblyReference.cache
+C:\Aprenda a programar\aula 16\obj\Debug\net7.0\aula 16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aprenda a programar\aula 16\obj\Debug\net7.0\aula 16.AssemblyInfoInputs.cache
+C:\Aprenda a programar\aula 16\obj\Debug\net7.0\aula 16.AssemblyInfo.cs
+C:\Aprenda a programar\aula 16\obj\Debug\net7.0\aula 16.csproj.CoreCompileInputs.cache
+C:\Aprenda a programar\aula 16\obj\Debug\net7.0\aula 16.dll
+C:\Aprenda a programar\aula 16\obj\Debug\net7.0\refint\aula 16.dll
+C:\Aprenda a programar\aula 16\obj\Debug\net7.0\aula 16.pdb
+C:\Aprenda a programar\aula 16\obj\Debug\net7.0\aula 16.genruntimeconfig.cache
+C:\Aprenda a programar\aula 16\obj\Debug\net7.0\ref\aula 16.dll
